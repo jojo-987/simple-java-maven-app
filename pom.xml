@@ -5,7 +5,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-${maven.build.timestamp}</version>
+  <version>1.0.1</version>
   <name>my-app</name>
   <url>https://maven.apache.org</url>
   <dependencies>
@@ -17,7 +17,6 @@
     </dependency>
   </dependencies>
   <properties>
-    <maven.build.timestamp.format> yyyyMMdd-HHmm </maven.build.timestamp.format>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
 
