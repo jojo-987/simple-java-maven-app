@@ -107,7 +107,7 @@
   </build>
   <distributionManagement>
          <repository>
-       <id>nexus</id>
+       <id>custom-maven-ga</id>
        <url>http://192.168.0.32:8081/repository/jenkins-maven-hw-kp/</url>
           </repository>
   </distributionManagement>
