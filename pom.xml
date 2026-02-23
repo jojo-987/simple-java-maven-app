@@ -108,7 +108,7 @@
   <distributionManagement>
          <repository>
        <id>custom-maven-ga</id>
-       <url>http://192.168.0.32:8081/repository/jenkins-maven-hw-kp/</url>
+       <url>http://192.168.0.34:8081/repository/jenkins-maven-hw-kp/</url>
           </repository>
   </distributionManagement>
 </project>
