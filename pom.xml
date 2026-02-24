@@ -6,7 +6,7 @@
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
   <version>${revision}</version>
-  <name>my-app</name>
+  <name>maven-simple-java</name>
   <url>https://maven.apache.org</url>
   <dependencies>
     <dependency>
